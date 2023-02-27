@@ -36,4 +36,4 @@
 
 <h2>Conclusion</h2>
 
-<p>This project demonstrates
+<p>This project demonstrates good data engineering practices such as using multiprocessing programming, metadata creation, and data source tracking. The analysis provides insights into my personal book taste compared to Amazon bestsellers and other book datasets. The results of the analysis can be found in the <code>results</code> folder.</p>
